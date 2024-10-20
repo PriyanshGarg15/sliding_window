@@ -1,27 +1,4 @@
-package sash_coding;
-//Brutte Force
-// public class a2_first_negative_integer_in_every_window_of_size_k {
-//     public static void findFirstNegativeInWindow(int[] arr, int k) {
-//         for (int i = 0; i <= arr.length - k; i++) {
-//             boolean foundNegative = false;
-//             for (int j = i; j < i + k; j++) {
-//                 if (arr[j] < 0) {
-//                     System.out.print(arr[j] + " ");
-//                     foundNegative = true;
-//                     break;
-//                 }
-//             }
-//             if (!foundNegative) {
-//                 System.out.print("0 ");
-//             }
-//         }
-//     }
-//     public static void main(String[] args) {
-//         int[] arr = {12, -1, -7, 8, 15, 30, 16, 28};
-//         int k = 3;
-//         findFirstNegativeInWindow(arr, k);
-//     }
-// }
+
 
 
 

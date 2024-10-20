@@ -37,7 +37,7 @@
 //         return uniqueChars.size() == k;
 //     }
 // }
-package sash_coding;
+
 import java.util.*;
 public class a5_longest_k_unique_characters_substring {
 

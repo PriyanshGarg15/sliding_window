@@ -1,6 +1,7 @@
+
 import java.util.*;
 
-public class a3_max_consecutive_ones_3_leetcode_1004 {
+public class a9_max_consecutive_ones_3_leetcode_1004 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] arr = {0, 1, 1, 0, 0, 1, 1};

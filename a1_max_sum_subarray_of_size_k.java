@@ -1,6 +1,4 @@
-package sash_coding;
-//Brutte force
-// public class a1_max_sum_subarray_of_size_k {
+
 
 //     public static int maxSumSubarrayOfSizeK(int[] arr, int k) {
 //         int maxSum = Integer.MIN_VALUE;
